@@ -1,4 +1,3 @@
-
 body{
     background-color: hsl(30, 38%, 92%);
     font-size: 14px;
@@ -9,6 +8,7 @@ h1{
     font-family: 'Fraunces', serif;
     color: hsl(212, 21%, 14%); 
     font-weight: 700;
+    font-size: 30px;
     line-height: 1;
 }
 
@@ -44,7 +44,7 @@ h2{
     letter-spacing: 3px;
 }
 
-h4{
+.discount{
     color: hsl(228, 12%, 48%);
     display: inline-block;
     font-family: 'Montserrat', sans-serif;
@@ -59,7 +59,12 @@ h4{
 .price{
     color: hsl(158, 36%, 37%);
     display: inline-block;
-    margin-top: 10px;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    font-family: 'Fraunces', serif;
+    font-size: 27px;
+    font-weight: 700;
+    
 }
 
 .written-part{
@@ -80,12 +85,15 @@ h4{
     border: none;
     width: 200px;
     height: 40px;
-    margin-bottom: 16px;
+    margin-bottom: 15px;
     font-weight: normal;
+    position: relative;
 }
 
+
 .btn img{
-    margin: 0 0 0 50px;
+    position: absolute;
+    margin: 0 0 0 0;
     width: 15px;
     height: 15px;
 }
