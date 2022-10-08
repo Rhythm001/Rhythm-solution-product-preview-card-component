@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/solution-product-preview-card-component-t3KYDynAYQ)
-- Live Site URL: [Add live site URL here](https://rhythm001.github.io/Rhythm-solution-product-preview-card-component/)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/solution-product-preview-card-component-t3KYDynAYQ)
+- Live Site URL: [Live site URL here](https://rhythm001.github.io/Rhythm-solution-product-preview-card-component/)
 
 
 ### Built with
